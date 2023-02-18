@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicrosoftGraphAccessor", "MicrosoftGraphAccessor\MicrosoftGraphAccessor.csproj", "{B498BAFD-377C-4CC0-B499-C6694B029986}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B498BAFD-377C-4CC0-B499-C6694B029986}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B498BAFD-377C-4CC0-B499-C6694B029986}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B498BAFD-377C-4CC0-B499-C6694B029986}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B498BAFD-377C-4CC0-B499-C6694B029986}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07C0D696-0D0B-458F-ACE2-93135E779A4F}
+	EndGlobalSection
+EndGlobal
